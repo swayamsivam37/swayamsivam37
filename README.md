@@ -1,4 +1,4 @@
-[![MasterHead](https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024)]
+[![MasterHead](https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024)](https://swayamsivam37.github.io/cv/)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
